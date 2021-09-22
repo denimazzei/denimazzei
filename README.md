@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @denimazzei
 - 👀 I’m interested in ... advancing my career
 - 🌱 I’m currently learning ... how to code and become a full stack developer
-- 💞️ I’m looking to collaborate on ... ed tech
+- 💞️ I’m looking to collaborate on ... ed tech & start up concepts!
 - 📫 How to reach me ... dconkell@gmail.com
 
 <!---
